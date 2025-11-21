@@ -6,6 +6,7 @@ A super simple FastAPI application that allows students to view and sign up for 
 
 - View all available extracurricular activities
 - Sign up for activities
+- New: GitHub Skills activity for practical coding and collaboration (GitHub認定プログラム対応)
 
 ## Getting Started
 
@@ -37,6 +38,19 @@ A super simple FastAPI application that allows students to view and sign up for 
 The application uses a simple data model with meaningful identifiers:
 
 1. **Activities** - Uses activity name as identifier:
+
+### Example Activities
+
+- Chess Club
+- Programming Class
+- Gym Class
+- Soccer Team
+- Basketball Team
+- Art Club
+- Drama Club
+- Math Club
+- Debate Team
+- **GitHub Skills** ← New! Practical coding & collaboration, GitHub Certifications
 
    - Description
    - Schedule
